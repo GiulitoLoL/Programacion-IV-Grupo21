@@ -1,0 +1,1 @@
+{"version":3,"file":"cuadrado.d.ts","sourceRoot":"","sources":["../src/cuadrado.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,gBAAgB,EAAC,MAAM,oBAAoB,CAAA;AAEnD,cAAM,QAAS,SAAQ,gBAAgB;IACvB,OAAO,CAAC,IAAI;gBAAJ,IAAI,EAAE,MAAM;IAGhC,YAAY,IAAI,MAAM;CAGzB;AACD,OAAO,EAAE,QAAQ,EAAE,CAAC"}

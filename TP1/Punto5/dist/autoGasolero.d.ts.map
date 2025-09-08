@@ -1,0 +1,1 @@
+{"version":3,"file":"autoGasolero.d.ts","sourceRoot":"","sources":["../src/autoGasolero.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,YAAY,CAAC;AAEtC,cAAM,YAAa,SAAQ,QAAQ;IAC/B,mBAAmB,EAAE,MAAM,CAAC;gBAEhB,KAAK,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,EAAE,mBAAmB,EAAE,MAAM;IAKtE,iBAAiB,IAAI,IAAI;IAMzB,gBAAgB,IAAI,IAAI;CAI3B;AAED,OAAO,EAAE,YAAY,EAAE,CAAC"}

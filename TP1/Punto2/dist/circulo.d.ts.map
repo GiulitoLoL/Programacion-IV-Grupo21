@@ -1,0 +1,1 @@
+{"version":3,"file":"circulo.d.ts","sourceRoot":"","sources":["../src/circulo.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,gBAAgB,EAAC,MAAM,oBAAoB,CAAA;AAEnD,cAAM,OAAQ,SAAQ,gBAAgB;IACtB,OAAO,CAAC,KAAK;gBAAL,KAAK,EAAE,MAAM;IAGjC,YAAY,IAAI,MAAM;CAGzB;AACD,OAAO,EAAE,OAAO,EAAE,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"empleado.d.ts","sourceRoot":"","sources":["../src/empleado.ts"],"names":[],"mappings":"AAAA,uBAAe,QAAQ;IACnB,MAAM,EAAE,MAAM,CAAC;IACf,WAAW,SAAU;gBAET,MAAM,EAAE,MAAM;IAG1B,QAAQ,CAAC,eAAe,IAAI,MAAM;CACrC;AAED,OAAO,EAAE,QAAQ,EAAE,CAAC"}

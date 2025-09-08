@@ -1,0 +1,1 @@
+{"version":3,"file":"zorro.d.ts","sourceRoot":"","sources":["../src/zorro.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAElC,cAAM,KAAM,SAAQ,MAAM;IACtB,OAAO,EAAE,MAAM,CAAC;gBACJ,MAAM,EAAE,MAAM,EAAE,OAAO,GAAE,MAAgB;IAIrD,WAAW,IAAI,IAAI;CAGtB;AAED,OAAO,EAAE,KAAK,EAAE,CAAC"}

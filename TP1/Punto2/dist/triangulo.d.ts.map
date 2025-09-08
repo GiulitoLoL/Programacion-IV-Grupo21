@@ -1,0 +1,1 @@
+{"version":3,"file":"triangulo.d.ts","sourceRoot":"","sources":["../src/triangulo.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,gBAAgB,EAAC,MAAM,oBAAoB,CAAA;AAEnD,cAAM,SAAU,SAAQ,gBAAgB;IACvB,OAAO,CAAC,IAAI;IAAS,OAAO,CAAC,MAAM;gBAA3B,IAAI,EAAC,MAAM,EAAU,MAAM,EAAC,MAAM;IAGvD,YAAY,IAAI,MAAM;CAGzB;AAED,OAAO,EAAE,SAAS,EAAE,CAAC"}

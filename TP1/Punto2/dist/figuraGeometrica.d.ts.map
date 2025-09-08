@@ -1,0 +1,1 @@
+{"version":3,"file":"figuraGeometrica.d.ts","sourceRoot":"","sources":["../src/figuraGeometrica.ts"],"names":[],"mappings":"AAAA,uBAAe,gBAAgB;IAC3B,SAAS,CAAC,MAAM,EAAE,MAAM,CAAC;gBACb,MAAM,EAAE,MAAM;IAG1B,SAAS,IAAI,MAAM;IAGnB,QAAQ,CAAC,YAAY,IAAI,MAAM;CAClC;AAED,OAAO,EAAE,gBAAgB,EAAE,CAAC"}
