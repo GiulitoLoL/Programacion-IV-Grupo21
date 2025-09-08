@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tsc --watch",
-    "dev1": "node --watch ./dist/index.js",
-    "dev2": "node --watch ./dist/arreglo.js"
+    "dev": "node --watch ./dist/index.js"
   },
   "repository": {
     "type": "git",
