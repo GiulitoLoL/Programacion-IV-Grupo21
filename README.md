@@ -20,3 +20,13 @@ cd PuntoX
 npm run build
 npm run start 
 ```
+
+Diagramas UML requeridos:
+
+Ejercicio 3:
+
+![UMLEjercico3](./TP1/Punto3/DiagramaUMLEmpleados.png)
+
+Ejercicio 5:
+
+![UMLEjercico5](./TP1/Punto5/DiagramaUMLVehiculos.png)
