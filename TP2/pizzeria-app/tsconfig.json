@@ -1,0 +1,17 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    // Importante para resolver tipos de librerías JS
+    "esModuleInterop": true, 
+    // Permite usar import/export con el sistema CommonJS de Node
+    "moduleResolution": "node", 
+    // ... otras opciones
+  }
+
+}
